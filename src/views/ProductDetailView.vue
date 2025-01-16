@@ -20,6 +20,9 @@
         <v-btn outlined color="secondary" @click="$router.push('/shop')">
           Späť do obchodu
         </v-btn>
+        <v-btn outlined color="success" @click="$router.push('/cart')">
+          Prejsť do košíka
+        </v-btn>
       </v-card-actions>
     </v-card>
   </v-container>
