@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "slug": "nasa-webb-snimky",
+        "title": "Vesmírny teleskop Jamesa Webba zaznamenal rekordnú zbierku hviezd vo vzdialenej galaxii",
+        "author": "Sharmila Kuthunur",
+        "date": "2022-01-07",
+        "image": "/img/articles/nasa-webb.jpg",
+        "content": "Nový rok, nový míľnik: Kozmická zvláštnosť prírody umožnila vesmírnemu teleskopu Jamesa Webba (JWST) zachytiť snímky 44 jednotlivých hviezd v galaxii na polceste naprieč pozorovateľným vesmírom - táto oblasť je taká vzdialená, že astronómovia kedysi považovali za identifikovanie jednotlivých hviezd v roku je to nemožné, ako keď pomocou ďalekohľadu zbadáte zrnká prachu v kráteroch na Mesiaci.",
+        "category": "Vesmírny Teleskop Jamesa Webba"
+    },
+    {
+        "id": 2,
+        "slug": "aktivne-povrchy-eris-makemake",
+        "title": "JWST ukázal aktívne povrchy Erisu a Makemake",
+        "author": "doc. RNDr. Ján Svoreň, DrSc.",
+        "date": "2024-07-12",
+        "image": "/img/articles/makemake-eris.png",
+        "content": "Vzdialené objekty Edgeworthovho-Kuiperovho pásu Eris a Makemake, skúmané pomocou JWST, sa postarali o ďalšie prekvapenie. Objavené aktívne povrchy môžu znamenať veľa vecí, vrátane oceánov vo vnútri.",
+        "category": "Vesmírny Teleskop Jamesa Webba"
+    },
+    {
+        "id": 3,
+        "slug": "cierne-diery",
+        "title": "Astronómovia skúmajú výtrysky čiernych dier pomocou teleskopu Event Horizon",
+        "author": "Josh Dinner",
+        "date": "2025-01-12",
+        "image": "/img/articles/event horizon telescope.jpg",
+        "content": "Astronómovia, ktorí študujú nepolapiteľné supermasívne čierne diery v srdciach galaxií, sú fascinovaní nielen samotnými kozmickými monštrami, ale aj kolosálnymi výtryskami, ktoré vypúšťajú do vesmíru rýchlosťou blízkou svetlu, z ktorých najväčšie dosahujú dĺžku miliónov svetelných rokov. Najmä fyzika toho, čo urýchľuje tieto prúdy na rýchlosti blízke svetlu, zostala nejasná.",
+        "category": "Čierne diery"
+    },
+    {
+        "id": 4,
+        "slug": "v-tento-den",
+        "title": "V tento deň vo vesmíre! 11. január 1787: William Herschel objavil 2 mesiace Uránu",
+        "author": "Hanneke Weitering",
+        "date": "2025-01-11",
+        "image": "/img/articles/oberon-titania.png",
+        "content": "11. januára 1787 objavil anglický astronóm Sir William Herschel dva mesiace na Uráne! Oberon a Titania boli prvé dva uránske mesiace, ktoré boli kedy objavené. Zistenie prišlo len šesť rokov po tom, čo Herschel objavil samotnú planétu.",
+        "category": "V tento deň vo vesmíre"
+    },
+    {
+        "id": 5,
+        "slug": "prvy-dreveny-satelit",
+        "title": "Prvý drevený satelit na svete nasadili z ISS, aby demonštroval čistejšiu technológiu kozmickej lode",
+        "author": "Tereza Pultarova",
+        "date": "2025-01-10",
+        "image": "/img/articles/wooden-satellite.jpg",
+        "content": "Experimentálny satelit vyrobený z dreva bol nasadený z Medzinárodnej vesmírnej stanice (ISS), aby otestoval, ako obnoviteľný, udržateľný materiál odoláva drsnému orbitálnemu prostrediu. Satelit, ktorý navrhli a postavili Kjótska univerzita a japonská drevospracujúca spoločnosť Sumitomo Forestry, sa nazýva LignoSat, čo je odkaz na organický polymér lignín, ktorý prevláda v drevených bunkách.",
+        "category": "Technológie"
+    },
+    {
+        "id": 6,
+        "slug": "solar-dynamics-observatory",
+        "title": "NASA Solar Dynamics Observatory je opäť online po povodni dátového centra v roku 2024",
+        "author": "Sharmila Kuthunur",
+        "date": "2025-01-10",
+        "image": "/img/articles/nasa-sdo.png",
+        "content": "Viac ako mesiac po tom, čo zaplavené dátové centrum na Stanfordskej univerzite zrušilo operácie spracovania údajov pre dve kozmické lode NASA, ktoré skúmajú slnko, solárni vedci začínajú znovu získavať prístup k informáciám a obrázkom vysielaným prístrojmi na Zem.",
+        "category": "NASA"
+    },
+    {
+        "id": 7,
+        "slug": "upirska-hviezda",
+        "title": "Najrýchlejšie sa točiaca „upírska hviezda“, o ktorej vieme, sa zmenšuje. Čoskoro vybuchne",
+        "author": "Robert Lea",
+        "date": "2025-01-10",
+        "image": "/img/articles/upirska-hviezda.jpg",
+        "content": "Rýchla rotácia tohto bieleho trpaslíka, ktorý upírsky odoberá hviezdnu hmotu od sprievodnej hviezdy, by sa dala vysvetliť jej zmenšujúcim sa polomerom. Aj keď biely trpaslík počas nášho života nevybuchne v supernove, exploduje z kozmického hľadiska relatívne skoro.",
+        "category": "Hviezdy"
+    },
+    {
+        "id": 8,
+        "slug": "atmosfera-jupitera",
+        "title": "Amatérsky astronóm použil starú techniku na štúdium Jupitera - a zistil niečo zvláštne",
+        "author": "Victoria Corless",
+        "date": "2025-01-9",
+        "image": "/img/articles/jupiter.jpg",
+        "content": "Vedci a amatérski astronómovia sa spojili, aby vyvrátili dlhotrvajúci predpoklad, že ikonické víriace oblaky Jupitera sú vyrobené zo zamrznutého amoniaku - celkom zásadné odhalenie o plynnom obrovi, o ktorom sme si mysleli, že ho dobre poznáme.",
+        "category": "Planéty"
+    },
+    {
+        "id": 9,
+        "slug": "pestovanie-potravin-vo-vesmire",
+        "title": "Vedci zistili, že jedlo rastie lepšie na Mesiaci ako na Marse",
+        "author": "Tom Brown",
+        "date": "2025-01-09",
+        "image": "/img/articles/mesiac.jpg",
+        "content": "Elon Musk sa možno zameriava na osídľovanie Marsu, ale nedávne experimenty, ktoré využívali mimozemskú pôdu, naznačujú, že ľudské sídla by mohli mať na Mesiaci oveľa ľahší priebeh.",
+        "category": "Mesiac"
+    },
+    {
+        "id": 10,
+        "slug": "spacex-satelity",
+        "title": "SpaceX vypustila 21 nových satelitov Starlink z Floridy",
+        "author": "Robert Z. Pearlman",
+        "date": "2025-01-08",
+        "image": "/img/articles/spacex-falcon9.jpg",
+        "content": "Raketa Falcon 9 nesúca 21 kozmických lodí Starlink, vrátane 13 so schopnosťami Direct to Cell, odštartovala z Kennedyho vesmírneho strediska NASA v stredu o 10:27 EST (1527 GMT).",
+        "category": "SpaceX"
+    },
+    {
+        "id": 11,
+        "slug": "temne-fotony",
+        "title": "„Temné fotóny“ na kozmickom úsvite Veľkého tresku by mohli osvetliť temnú hmotu",
+        "author": "Robert Lea",
+        "date": "2025-01-08",
+        "image": "/img/articles/velky-tresk.png",
+        "content": "Pozorovanie interakcií medzi temnou hmotou a takzvanými „temnými fotónmi“ počas obdobia po Veľkom tresku nazývanom „kozmický úsvit“ by mohlo pomôcť objasniť najzáhadnejšiu a najznepokojujúcejšiu formu hmoty vo vesmíre. Častice temnej hmoty prevyšujú bežnú, každodennú hmotu, ktorá zahŕňa objekty ako hviezdy, planéty, mesiace, asteroidy, kozmické oblaky plynu a prachu a všetky živé veci, asi päť ku jednej.",
+        "category": "Vesmír"
+    },
+    {
+        "id": 12,
+        "slug": "temne-komety",
+        "title": "Veľké objavy „temnej kométy“ by mohli prísť v roku 2025",
+        "author": "Darryl Seligman",
+        "date": "2025-01-07",
+        "image": "/img/articles/temne-komety.jpg",
+        "content": "Rok 2025 by mohol byť rekordným rokom z hľadiska objavovania nových temných komét. V roku 2017 astronómovia objavili medzihviezdneho návštevníka 'Oumuamua. V roku 2023 sme informovali o objave siedmich tmavých komét slnečnej sústavy blízko Zeme. Napokon, len minulý mesiac v roku 2024 - a práve včas na nový rok - sme zdvojnásobili populáciu známych tmavých komét a zistili sme, že prichádzajú v dvoch rôznych príchutiach.",
+        "category": "Kométy"
+    }
+]
+

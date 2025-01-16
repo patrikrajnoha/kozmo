@@ -1,0 +1,106 @@
+{
+  "moonPhases": [
+    {
+      "phase": "Prvá štvrť",
+      "emoji": "🌓",
+      "dates": ["2025-01-07", "2025-02-05", "2025-03-06", "2025-04-05", "2025-05-04", "2025-06-03", "2025-07-02", "2025-08-01", "2025-08-31", "2025-09-30", "2025-10-29", "2025-11-28", "2025-12-27"]
+    },
+    {
+      "phase": "Spln mesiaca",
+      "emoji": "🌕",
+      "dates": ["2025-01-13", "2025-02-12", "2025-03-14", "2025-04-13", "2025-05-12", "2025-06-11", "2025-07-10", "2025-08-09", "2025-09-07", "2025-10-07", "2025-11-05", "2025-12-05"]
+    },
+    {
+      "phase": "Posledná štvrť",
+      "emoji": "🌗",
+      "dates": ["2025-01-21", "2025-02-20", "2025-03-22", "2025-04-21", "2025-05-20", "2025-06-18", "2025-07-18", "2025-08-16", "2025-09-14", "2025-10-13", "2025-11-12", "2025-12-11"]
+    },
+    {
+      "phase": "Nov",
+      "emoji": "🌑",
+      "dates": ["2025-01-29", "2025-02-28", "2025-03-29", "2025-04-27", "2025-05-27", "2025-06-25", "2025-07-24", "2025-08-23", "2025-09-21", "2025-10-21", "2025-11-20", "2025-12-20"]
+    }
+  ],
+ "astronomicalEvents": [
+    {
+      "event": "Meteorický roj - Kvadrantídy",
+      "emoji": "☄️",
+      "dates": ["2025-01-03"],
+      "description": "Maximum meteorického roja Kvadrantídy. Očakávaný počet meteorov je 90-120 za hodinu."
+    },
+    {
+      "event": "Zákryt Saturna Mesiacom",
+      "emoji": "🪐",
+      "dates": ["2025-01-04"],
+      "description": "Saturn sa skryje za neosvetlenú časť Mesiaca a po viac ako hodine sa znovu objaví spoza osvetleného okraja."
+    },
+    {
+      "event": "Najlepšia viditeľnosť Venuše",
+      "emoji": "🌟",
+      "dates": ["2025-01-10"],
+      "description": "Venuša bude od Slnka vzdialená až 47 stupňov, čo poskytne výborné podmienky na pozorovanie."
+    },
+    {
+      "event": "Blízkosť Marsu a Mesiaca",
+      "emoji": "🔭",
+      "dates": ["2025-01-14", "2025-02-09"],
+      "description": "Mars sa na oblohe priblíži k Mesiacu na vzdialenosť zdanlivého priemeru mesačného kotúča."
+    },
+    {
+      "event": "Úplné zatmenie Mesiaca",
+      "emoji": "🌕",
+      "dates": ["2025-03-14"],
+      "description": "Úplné zatmenie Mesiaca viditeľné v Južnej a Severnej Amerike, Atlantickom oceáne, západnej Európe a Afrike. Zo Slovenska len ako polotieňové zatmenie ráno pred západom Mesiaca."
+    },
+    {
+      "event": "Najlepšia viditeľnosť Merkúra",
+      "emoji": "🌒",
+      "dates": ["2025-03-08"],
+      "description": "Merkúr bude v najväčšej uhlovej vzdialenosti od Slnka – až 18 stupňov."
+    },
+    {
+      "event": "Blízkosť Venuše a Merkúra",
+      "emoji": "✨",
+      "dates": ["2025-03-11", "2025-03-12"],
+      "description": "Venuša a Merkúr sa na oblohe mimoriadne priblížia."
+    },
+    {
+      "event": "Čiastočné zatmenie Slnka",
+      "emoji": "🌒",
+      "dates": ["2025-03-29"],
+      "description": "Čiastočné zatmenie Slnka viditeľné v Európe, severovýchodnej Amerike a Rusku. Na Slovensku bude zakrytých 7,5-10,5 % slnečného disku."
+    },
+    {
+      "event": "Blízkosť Mesiaca a Merkúra",
+      "emoji": "🌙",
+      "dates": ["2025-06-26"],
+      "description": "Mesiac a Merkúr budú viditeľné blízko seba po západe Slnka."
+    },
+    {
+      "event": "Perzeidy - meteorický roj",
+      "emoji": "☄️",
+      "dates": ["2025-08-12"],
+      "description": "Maximum meteorického roja Perzeidy. Očakávaný počet meteorov je 100 za hodinu."
+    },
+    {
+      "event": "Úplné zatmenie Mesiaca a krvavý mesiac",
+      "emoji": "🌕",
+      "dates": ["2025-09-07"],
+      "description": "Úplné zatmenie Mesiaca, kedy sa Mesiac javí ako krvavo červený."
+    },
+    {
+      "event": "Saturnove prstence zmizli",
+      "emoji": "🪐",
+      "dates": ["2025-11-08"],
+      "description": "Saturnove prstence budú takmer neviditeľné, keďže sa nachádzajú v rovníkovej rovine Zeme."
+    },
+    {
+      "event": "Meteorický roj Geminidov vyvrcholil",
+      "emoji": "☄️",
+      "dates": ["2025-12-13"],
+      "description": "Maximum meteorického roja Geminidov. Očakávaný počet meteorov je až 120 za hodinu."
+    }
+  ]
+
+
+}

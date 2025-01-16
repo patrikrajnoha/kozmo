@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Konjunkcia Saturna a Venuše",
+    "date": "2025-01-18",
+    "category": "Astronomické úkazy",
+    "location": "Večerná obloha",
+    "description": "Dňa 18. januára 2025 sa Venuša vyskytne v konjunkcii so Saturnom. Tento úkaz bude pozorovateľný voľným okom na večernej oblohe.",
+    "image": "/img/events/venus-saturn.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Úplné zatmenie Mesiaca a krvavý mesiac",
+    "date": "2025-03-14",
+    "category": "Astronomické úkazy",
+    "location": "Globálne",
+    "description": "Dňa 14. marca 2025 zažijeme úplné zatmenie Mesiaca, známe aj ako krvavý mesiac.",
+    "image": "/img/events/lunar-eclipse.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Čiastočné zatmenie Slnka",
+    "date": "2025-03-29",
+    "category": "Astronomické úkazy",
+    "location": "Viditeľné v niektorých regiónoch",
+    "description": "29. marca 2025 nastane čiastočné zatmenie Slnka, počas ktorého Mesiac zakryje časť slnečného disku.",
+    "image": "/img/events/solar-eclipse.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Stretnutie Mesiaca a Merkúra",
+    "date": "2025-06-26",
+    "category": "Astronomické úkazy",
+    "location": "Večerná obloha",
+    "description": "Dňa 26. júna 2025 sa Mesiac stretne s Merkúrom na večernej oblohe.",
+    "image": "/img/events/moon-mercury.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Blízke stretnutie Venuše a Jupitera",
+    "date": "2025-08-12",
+    "category": "Astronomické úkazy",
+    "location": "Ranná obloha",
+    "description": "12. augusta 2025 budú Venuša a Jupiter vo veľmi blízkej konjunkcii na rannej oblohe.",
+    "image": "/img/events/venus-jupiter.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Úplné zatmenie Mesiaca a krvavý mesiac",
+    "date": "2025-09-07",
+    "category": "Astronomické úkazy",
+    "location": "Globálne",
+    "description": "Dňa 7. septembra 2025 zažijeme ďalšie úplné zatmenie Mesiaca a krvavý mesiac.",
+    "image": "/img/events/lunar-eclipse-september.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Mesiac, Venuša a Regulus v objatí nebeskej skupiny",
+    "date": "2025-09-19",
+    "category": "Astronomické úkazy",
+    "location": "Večerná obloha",
+    "description": "Dňa 19. septembra 2025 budú Mesiac, Venuša a hviezda Regulus v tesnej konjunkcii.",
+    "image": "/img/events/moon-venus-regulus.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Saturnove prstence zmizli",
+    "date": "2025-11-08",
+    "category": "Astronomické úkazy",
+    "location": "Globálne",
+    "description": "Dňa 8. novembra 2025 sa Saturnove prstence stanú prakticky neviditeľnými z dôvodu ich orientácie voči Zemi.",
+    "image": "/img/events/saturn-rings.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Meteorický roj Geminidov vyvrcholil",
+    "date": "2025-12-13",
+    "category": "Astronomické úkazy",
+    "location": "Globálne",
+    "description": "Meteorický roj Geminidov dosiahne svoj vrchol počas noci z 13. na 14. decembra 2025.",
+    "image": "/img/events/geminids.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Prednáška s Kozmonautom Ivanom Bellom",
+    "date": "2025-04-15",
+    "category": "Prednášky",
+    "location": "Vedecká kaviareň, FPVaI UKF v Nitre",
+    "description": "Príďte si vypočuť kozmonauta Ivana Bellu, prvého Slováka vo vesmíre, na fascinujúcu prednášku o jeho zážitkoch a poznatkoch z vesmírnych misií.",
+    "image": "/img/events/ivan-bella.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Vesmírny workshop: Ako sa stať astronautom",
+    "date": "2025-05-10",
+    "category": "Workshopy",
+    "location": "Astronomické centrum, Bratislava",
+    "description": "Pridajte sa na interaktívny workshop, kde sa dozviete, aké sú kroky a požiadavky na kariéru astronauta, a vyskúšajte si simulácie vesmírnych misií.",
+    "image": "/img/events/space-workshop.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Prednáška s fyzikom Samuelom Kováčikom",
+    "date": "2025-06-01",
+    "category": "Prednášky",
+    "location": "Univerzita Komenského, Bratislava",
+    "description": "Fascinujúca prednáška fyzika Samuela Kováčika o najnovších objavoch v kvantovej fyzike a ich vplyve na každodenný život.",
+    "image": "/img/events/samuel-kovacik.jpg"
+  }
+]

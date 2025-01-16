@@ -1,29 +1,62 @@
-# kozmo
+# KOZMO
 
-This template should help get you started developing with Vue 3 in Vite.
+KOZMO is a web app providing an overview of space events and news. Built with Vue.js, Vite, Vuetify, Bootstrap, and additional libraries for enhanced functionality.
 
-## Recommended IDE Setup
+## Features
+- Event listings, blog, and online shop.
+- Responsive design with Vuetify and Bootstrap.
+- State management via Pinia.
+- Calendar integration with v-calendar.
+- Modular components (HomeView, EventsView, etc.).
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Tools & Libraries
+- **Vue.js** (3.5.13)
+- **Vite** (6.0.5) with Vue Plugin
+- **Vuetify** (3.7.6)
+- **Bootstrap** (5.3.3)
+- **Pinia** (2.3.0)
+- **Vue Router** (4.5.0)
+- **v-calendar** (3.0.0)
+- **@mdi/font** (7.4.47)
+- **vite-plugin-vue-devtools** (7.7.0)
 
-## Customize configuration
+## Setup
+1. Clone the repo:
+   ```sh
+   git clone https://github.com/patrikrajnoha/kozmo.git
+   cd kozmo
+   ```
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+3. Start development server:
+   ```sh
+   npm run dev
+   ```
+4. Build for production:
+   ```sh
+   npm run build
+   ```
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+## Structure
+```plaintext
+src/
+├── assets/         
+├── components/     
+├── router/          
+├── services/       
+├── store/           
+├── views/          
+├── App.vue          
+├── main.js          
 ```
 
-### Compile and Hot-Reload for Development
+## Resources
+- [Vue.js](https://vuejs.org/)
+- [Vuetify](https://vuetifyjs.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Vite](https://vite.dev/)
+- [v-calendar](https://vcalendar.io/)
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+---

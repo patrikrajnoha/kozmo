@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Teleskop",
+    "price": 250,
+    "image": "/img/telescope.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Astronomická mapa",
+    "price": 15,
+    "image": "/img/star-map.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Model rakety",
+    "price": 45,
+    "image": "/img/rocket-model.jpg"
+  }
+]
