@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Slnko",
+    "temperature": 5500,
+    "icon": "/img/solar_system/sun.png"
+  },
+  {
+    "name": "Merkúr",
+    "temperature": 167,
+    "icon": "/img/solar_system/mercury.png"
+  },
+  {
+    "name": "Venuša",
+    "temperature": 464,
+    "icon": "/img/solar_system/venus.png"
+  },
+  {
+    "name": "Mars",
+    "temperature": -65,
+    "icon": "/img/solar_system/mars.png"
+  },
+  {
+    "name": "Jupiter",
+    "temperature": -110,
+    "icon": "/img/solar_system/jupiter.png"
+  },
+  {
+    "name": "Saturn",
+    "temperature": -140,
+    "icon": "/img/solar_system/saturn.png"
+  },
+  {
+    "name": "Urán",
+    "temperature": -195,
+    "icon": "/img/solar_system/uranus.png"
+  },
+  {
+    "name": "Neptún",
+    "temperature": -200,
+    "icon": "/img/solar_system/neptune.png"
+  },
+  {
+    "name": "Death Star",
+    "temperature": -1,
+    "icon": "/img/solar_system/death-star.png"
+  }
+]
